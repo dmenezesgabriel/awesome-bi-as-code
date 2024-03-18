@@ -36,6 +36,7 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 ## Data Exploration Tools
 
 - [Jupyter Project](https://jupyter.org/)
+- [Observable HQ](https://observablehq.com/@observablehq/observable-for-jupyter-users)
 
 ## Data Transformation Tools
 
@@ -44,6 +45,7 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 ## Story telling tools
 
 - [Vizzu](https://www.vizzu.io/)
+- [VizHub](https://vizhub.com/)
 
 ## Databases
 
