@@ -42,6 +42,7 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 ## Data Transformation Tools
 
 - [dbt](https://docs.getdbt.com/docs/introduction)
+- [DuckDB](https://duckdb.org/)
 
 ## Story telling tools
 
@@ -52,7 +53,3 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 
 - [Vanna AI](https://vanna.ai/)
 - [Vizro AI](https://vizro-ai.readthedocs.io/en/latest/)
-
-## Databases
-
-- [DuckDB](https://duckdb.org/)
