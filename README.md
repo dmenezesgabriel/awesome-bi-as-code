@@ -18,6 +18,7 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 - [Taipy](https://www.taipy.io/)
 - [H2O Wave](https://wave.h2o.ai/)
 - [Voila](https://github.com/voila-dashboards/voila)
+- [Vizro](https://github.com/mckinsey/vizro)
 
 ## Dashboard static web app frameworks
 
@@ -46,6 +47,11 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 
 - [Vizzu](https://www.vizzu.io/)
 - [VizHub](https://vizhub.com/)
+
+# AI powered
+
+- [Vanna AI](https://vanna.ai/)
+- [Vizro AI](https://vizro-ai.readthedocs.io/en/latest/)
 
 ## Databases
 
