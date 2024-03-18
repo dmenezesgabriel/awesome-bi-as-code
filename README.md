@@ -49,7 +49,13 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 - [Vizzu](https://www.vizzu.io/)
 - [VizHub](https://vizhub.com/)
 
-# AI powered
+## AI powered
 
 - [Vanna AI](https://vanna.ai/)
 - [Vizro AI](https://vizro-ai.readthedocs.io/en/latest/)
+
+## Articles
+
+- [THE FUTURE OF BI: EXPLORING THE IMPACT OF BI-AS-CODE TOOLS WITH DUCKDB](https://motherduck.com/blog/the-future-of-bi-bi-as-code-duckdb-impact/)
+- [Data Analysis Is a Form of Software Engineering](https://towardsdatascience.com/data-analysis-is-a-form-of-software-engineering-876232bd3ebc)
+- [Nubank - Scaling data analytics with software engineering best practices](https://building.nubank.com.br/scaling-data-analytics-with-software-engineering-best-practices/)
