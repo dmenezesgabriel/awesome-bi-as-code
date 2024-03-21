@@ -10,6 +10,8 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 
 ## Dashboard full stack web app frameworks
 
+Back-end & Front-end _all-in-one_ web applications.
+
 - [Streamlit](https://streamlit.io/)
 - [Panel](https://panel.holoviz.org/)
 - [Shiny](https://shiny.posit.co/py/)
@@ -22,39 +24,62 @@ Every day more tools are emerging to solve this problems, and they are truly awe
 
 ## Dashboard static web app frameworks
 
+Full Front-end serverless BI reporting dashboards.
+
 - [Evidence.dev](https://evidence.dev/)
 - [Observable Framework](https://observablehq.com/framework/)
 
 ## Web assembly powered wep app frameworks and tools
+
+Tools where the Back-end is "replaced" with Web assembly.
 
 - [Stlite](https://github.com/whitphx/stlite)
 - [Jupyter Lite](https://github.com/jupyterlite/jupyterlite)
 
 ## Dashboard ui components
 
+Front-end components.
+
 - [TremorUI](https://www.tremor.so/)
 
 ## Data Exploration Tools
+
+Notebook like exploration tools.
 
 - [Jupyter Project](https://jupyter.org/)
 - [Observable HQ](https://observablehq.com/@observablehq/observable-for-jupyter-users)
 
 ## Data Transformation Tools
 
+Analytics engineering data transformation tools.
+
 - [dbt](https://docs.getdbt.com/docs/introduction)
 - [DuckDB](https://duckdb.org/)
 
 ## Story telling tools
 
+Tell histories graphically, with animated charts or not and share it.
+
 - [Vizzu](https://www.vizzu.io/)
 - [VizHub](https://vizhub.com/)
 
+## Data Semantic Layer
+
+Centralize all your data founts into a unique api for your Front-end/BI tools.
+
+- [Cube.dev](https://cube.dev/)
+
 ## AI powered
 
+Text-to-SQL, Text-to-Plot, Text-to-DataFrame like tools.
+
+- [Pandas AI](https://github.com/Sinaptik-AI/pandas-ai)
 - [Vanna AI](https://vanna.ai/)
 - [Vizro AI](https://vizro-ai.readthedocs.io/en/latest/)
 
 ## Articles
+
+Some articles to give you context.
 
 - [THE FUTURE OF BI: EXPLORING THE IMPACT OF BI-AS-CODE TOOLS WITH DUCKDB](https://motherduck.com/blog/the-future-of-bi-bi-as-code-duckdb-impact/)
 - [Data Analysis Is a Form of Software Engineering](https://towardsdatascience.com/data-analysis-is-a-form-of-software-engineering-876232bd3ebc)
