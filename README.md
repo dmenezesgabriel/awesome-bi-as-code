@@ -77,6 +77,17 @@ Text-to-SQL, Text-to-Plot, Text-to-DataFrame like tools.
 - [Vanna AI](https://vanna.ai/)
 - [Vizro AI](https://vizro-ai.readthedocs.io/en/latest/)
 
+## AI Frameworks
+
+- [Langchain](https://www.langchain.com/)
+- [Dspy](https://github.com/stanfordnlp/dspy)
+- [Llama index](https://www.llamaindex.ai/)
+
+## AI Observability
+
+- [Arize AI - Phoenix](https://docs.arize.com/phoenix)
+- [Langfuse](https://langfuse.com/)
+
 ## Articles
 
 Some articles to give you context.
