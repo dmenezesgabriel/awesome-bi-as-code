@@ -88,6 +88,11 @@ Text-to-SQL, Text-to-Plot, Text-to-DataFrame like tools.
 - [Arize AI - Phoenix](https://docs.arize.com/phoenix)
 - [Langfuse](https://langfuse.com/)
 
+## AI as SQL
+
+- [EvaDB](https://github.com/georgia-tech-db/evadb)
+- [MindsDB](https://mindsdb.com/)
+
 ## Articles
 
 Some articles to give you context.
